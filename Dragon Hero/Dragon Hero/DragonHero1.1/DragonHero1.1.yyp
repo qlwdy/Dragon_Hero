@@ -39,7 +39,7 @@
     {"id":{"name":"ts_house_tiles","path":"tilesets/ts_house_tiles/ts_house_tiles.yy",},},
     {"id":{"name":"sprite_house_tiles","path":"sprites/sprite_house_tiles/sprite_house_tiles.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
-    {"id":{"name":"bruuuuhhhh","path":"sounds/bruuuuhhhh/bruuuuhhhh.yy",},},
+    {"id":{"name":"snd_move","path":"sounds/snd_move/snd_move.yy",},},
     {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},

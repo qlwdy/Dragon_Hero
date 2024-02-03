@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "bruuuuhhhh",
+  "name": "snd_move",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -17,7 +17,7 @@
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "bruuuuhhhh.wav",
+  "soundFile": "snd_move.wav",
   "type": 0,
   "volume": 1.0,
 }
