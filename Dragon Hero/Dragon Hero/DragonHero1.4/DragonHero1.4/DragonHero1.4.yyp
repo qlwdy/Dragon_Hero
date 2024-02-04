@@ -45,6 +45,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"ts_house_tiles","path":"tilesets/ts_house_tiles/ts_house_tiles.yy",},},
     {"id":{"name":"sprite_house_tiles","path":"sprites/sprite_house_tiles/sprite_house_tiles.yy",},},
+    {"id":{"name":"Dragon_Theme_2","path":"sounds/Dragon_Theme_2/Dragon_Theme_2.yy",},},
     {"id":{"name":"spr_village_map","path":"sprites/spr_village_map/spr_village_map.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
     {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
