@@ -13,8 +13,6 @@ sprite[DOWN] = spr_player_down;
 face = DOWN;
 
 
-x = 780 y = 780;
-
 
 isMoving = false;
 isPaused = false;

@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_treetop1",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "obj_village_map",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_treetop1",
-    "path": "sprites/spr_treetop1/spr_treetop1.yy",
+    "name": "spr_village_map",
+    "path": "sprites/spr_village_map/spr_village_map.yy",
   },
   "spriteMaskId": null,
   "visible": true,
