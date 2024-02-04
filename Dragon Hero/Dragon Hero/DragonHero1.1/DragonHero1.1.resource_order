@@ -20,6 +20,7 @@
     {"name":"spr_player_up","order":3,"path":"sprites/spr_player_up/spr_player_up.yy",},
     {"name":"snd_move","order":1,"path":"sounds/snd_move/snd_move.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Dragon_Theme_2","order":2,"path":"sounds/Dragon_Theme_2/Dragon_Theme_2.yy",},
     {"name":"sprite_house_tiles","order":5,"path":"sprites/sprite_house_tiles/sprite_house_tiles.yy",},
     {"name":"spr_village_map","order":6,"path":"sprites/spr_village_map/spr_village_map.yy",},
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},

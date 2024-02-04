@@ -13,3 +13,17 @@ face = DOWN;
 
 
 x = 780 y = 780;
+
+
+isMoving = false;
+isPaused = false;
+sound_position = 0;
+targetVolume = 1; // Max volume
+currentVolume = 0; // Start with volume at 0
+fadeSpeed = 0.05;
+
+movement_sound = snd_move;
+music_high_value = 0.2;
+music_low_value = 0.4;
+music_fade_time_ms = 1200;
+music_sound = audio_play_sound(Dragon_Theme_2, 1, true, music_high_value, 0, 1); 
