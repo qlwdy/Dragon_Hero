@@ -26,3 +26,9 @@ music_high_value = 0.2;
 music_low_value = 0.4;
 music_fade_time_ms = 1200;
 music_sound = audio_play_sound(Dragon_Theme_2, 1, true, music_high_value, 0, 1); 
+
+
+// Create Event of an object
+global.hasBeenToCave = false;
+
+global.inVillage = true;
