@@ -37,6 +37,7 @@
     {"id":{"name":"spr_caveEntrance","path":"sprites/spr_caveEntrance/spr_caveEntrance.yy",},},
     {"id":{"name":"obj_SpawnPoint4","path":"objects/obj_SpawnPoint4/obj_SpawnPoint4.yy",},},
     {"id":{"name":"spr_warp_transitons","path":"sprites/spr_warp_transitons/spr_warp_transitons.yy",},},
+    {"id":{"name":"sfx_walk_gold","path":"sounds/sfx_walk_gold/sfx_walk_gold.yy",},},
     {"id":{"name":"obj_caveEntrance","path":"objects/obj_caveEntrance/obj_caveEntrance.yy",},},
     {"id":{"name":"obj_tree_little","path":"objects/obj_tree_little/obj_tree_little.yy",},},
     {"id":{"name":"spr_caveRoom","path":"sprites/spr_caveRoom/spr_caveRoom.yy",},},

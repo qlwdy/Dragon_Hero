@@ -20,6 +20,7 @@
     {"name":"spr_caveEntrance","order":7,"path":"sprites/spr_caveEntrance/spr_caveEntrance.yy",},
     {"name":"obj_SpawnPoint4","order":23,"path":"objects/obj_SpawnPoint4/obj_SpawnPoint4.yy",},
     {"name":"spr_warp_transitons","order":16,"path":"sprites/spr_warp_transitons/spr_warp_transitons.yy",},
+    {"name":"sfx_walk_gold","order":3,"path":"sounds/sfx_walk_gold/sfx_walk_gold.yy",},
     {"name":"obj_caveEntrance","order":3,"path":"objects/obj_caveEntrance/obj_caveEntrance.yy",},
     {"name":"obj_tree_little","order":12,"path":"objects/obj_tree_little/obj_tree_little.yy",},
     {"name":"spr_caveRoom","order":13,"path":"sprites/spr_caveRoom/spr_caveRoom.yy",},
