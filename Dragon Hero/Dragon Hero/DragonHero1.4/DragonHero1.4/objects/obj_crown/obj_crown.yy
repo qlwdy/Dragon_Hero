@@ -10,8 +10,8 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_SpawnController",
-    "path": "objects/obj_SpawnController/obj_SpawnController.yy",
+    "name": "obj_minigame",
+    "path": "objects/obj_minigame/obj_minigame.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
